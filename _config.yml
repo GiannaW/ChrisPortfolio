@@ -23,11 +23,11 @@ plainwhite:
   
 
 
-  name: Gianna Williams
+  name: Chris Herrera
   navigation:
     - title: Welcome
       url: "/Gportfolio/"
-    - title: Projects
+    - title: Presentations
       url: "/Gportfolio/projects"
     - title: Papers
       url: "/Gportfolio/Papers"
@@ -38,7 +38,7 @@ plainwhite:
     
   
 
-  tagline: Developer. Researcher
+  tagline: Activist Researcher
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -52,8 +52,8 @@ plainwhite:
   # generate social links in footer
   social_links:
     #twitter: samarsault
-    github:  GiannaW
-    linkedIn: in/giannaewilliams
+    
+    linkedIn: in/chris-herrera-7b9aa4186/
     #rss: rss
     #dribbble: jekyll
     #flickr:   jekyll
