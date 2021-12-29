@@ -26,9 +26,9 @@ plainwhite:
   name: Chris Herrera
   navigation:
     - title: Welcome
-      url: "/Gportfolio/"
+      url: "/ChrisPortfolio/"
     - title: Presentations and Papers
-      url: "/Gportfolio/Papers"
+      url: "/ChrisPortfolio//Papers"
     - title: Resume
       url: "https://docs.google.com/document/d/1CAdFS2_f6rWwveXzgKUV-l27A0zIwiYRljyyCRLkroA/edit?usp=sharing"
     
