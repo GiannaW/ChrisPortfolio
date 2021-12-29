@@ -27,18 +27,14 @@ plainwhite:
   navigation:
     - title: Welcome
       url: "/Gportfolio/"
-    - title: Presentations
-      url: "/Gportfolio/projects"
-    - title: Papers
+    - title: Presentations and Papers
       url: "/Gportfolio/Papers"
-    - title: Videos
-      url: "/Gportfolio/Videos"
     - title: Resume
-      url: "https://docs.google.com/document/d/1701go5Wc3yrc0287YaWTAucm1YFrmLVuFogxa-XyuDk/edit?usp=sharing"
+      url: "https://docs.google.com/document/d/1CAdFS2_f6rWwveXzgKUV-l27A0zIwiYRljyyCRLkroA/edit?usp=sharing"
     
   
 
-  tagline: Activist Researcher
+  tagline: Activist. Researcher
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
