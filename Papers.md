@@ -16,6 +16,10 @@ layout: post
 
 [Climate Change, Settler Colonialism, & Indigenous Stewardship: A Case Study on Southern Louisiana](https://drive.google.com/file/d/1FvxIUWMY-oudXsYa4aWeQcX41hx67jV3/view?usp=sharing)
 --------
+[Species Richness and Macrophytes](https://docs.google.com/document/d/1R-EhrSOgeBIZO0TnaA4ZWYLmLi2MkC9YjMMJJNaMcyo/edit?usp=sharing)
+--------
+
+
 
 
 
